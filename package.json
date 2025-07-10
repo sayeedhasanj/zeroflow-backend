@@ -19,6 +19,8 @@
   "homepage": "https://github.com/sayeedhasanj/zeroflow-backend#readme",
   "description": "",
   "dependencies": {
+    "axios": "^1.10.0",
+    "bcryptjs": "^3.0.2",
     "cloudinary": "^2.7.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.0",
@@ -26,6 +28,7 @@
     "firebase-admin": "^13.4.0",
     "mongoose": "^8.16.2",
     "multer": "^2.0.1",
-    "multer-storage-cloudinary": "^4.0.0"
+    "multer-storage-cloudinary": "^4.0.0",
+    "pdfkit": "^0.17.1"
   }
 }
